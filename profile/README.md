@@ -1,33 +1,29 @@
-# NHCarrigan Mentorship Programme
+# NHCarrigan Professional Development Programme
 
 <div align="center">
 <img alt="A woman in glasses and a blazer relaxes in an office, barefoot with feet on a desk. She holds a steaming mug, with a cityscape visible through the window." src="https://cdn.nhcarrigan.com/splash.png" width=500>
 </div>
 
-Hey there! 👋 I'm **Naomi** — a transfem software engineer, community manager, and (failed) VTuber who's passionate about building inclusive tech communities and breaking down barriers in the industry. I am the founder of [NHCarrigan](https://nhcarrigan.com), and one of the pro-bono services we offer is a self-guided mentorship programme!
+Hey there! 👋 I'm **Naomi** — a transfem software engineer, community manager, and (failed) VTuber who's passionate about building inclusive tech communities and breaking down barriers in the industry. I am the founder of [NHCarrigan](https://nhcarrigan.com), and what you're looking at is a small slice of that work.
 
-## What is the programme?
+## Our mission
 
-This is a self-guided programme where you build your resume-worthy "flagship" project - following our structured approach for product management and ensuring your work aligns with your goals.
+This will never change: **help people reach their own definition of success.**
 
-Most of the collaboration is coordinated through [our Discord community](https://chat.nhcarrigan.com), so participants are required to join and engage there!
+The previous open-enrolment mentorship programme that lived here was one way we tried to deliver on that — but it wasn't sustainable long-term at the scale we wanted to operate at. We're still figuring out how to do this well for everyone; in the meantime, we've reshaped what happens here.
 
-## How do I join?
+## What this programme is now
 
-Join the [Discord community](https://chat.nhcarrigan.com) and select the mentorship role as part of your onboarding. Or, if you are already a member, select the role through the `Channels and Roles` tab.
+A smaller, more private, tight-knit professional development programme — hand-selected by me personally.
 
-Once you have the role, my assistant Amari will ping you with your next steps.
+Participants are invited based on demonstrated consistency, motivation, and passion for their craft. The smaller scale means I can give each person genuine, ongoing attention even when my schedule is full, rather than spreading myself thin across a crowd I can't realistically support.
 
-## Do I need to have experience?
+## Were you in the previous programme?
 
-Nope! **The primary purpose of this event is to facilitate learning.** We won't deny people for having not learned things! That would defeat the point.
+If you were, and you're not part of the new one — **please know this is not personal.** It means we weren't properly equipped to support you to the level you deserved. That's on us, not you. 💜
 
-## I have more questions, Naomi!
+Our mission to help you reach your version of success hasn't changed; we just don't have the right shape of programme for everyone yet. You are still warmly welcome in [the NHCarrigan Discord community](https://chat.nhcarrigan.com), and we'd love to keep getting to know you there.
 
-Awesome! I love answering questions! First, you should totally [check out the mentorship wiki](https://docs.nhcarrigan.com/mentorship/00-faq/). We worked really hard on it, and there's a lot of information there!
+## Want to connect?
 
-If that doesn't answer your questions, pop in to the [Discord community](https://chat.nhcarrigan.com) and ping me! 
-
-## Want to get to know Naomi?
-
-[The NHCarrigan Discord community](https://chat.nhcarrigan.com) is the perfect place to connect with us on a more personal level!
+Pop into [the NHCarrigan Discord community](https://chat.nhcarrigan.com) — it's where everything happens.
